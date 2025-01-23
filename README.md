@@ -41,7 +41,7 @@ Ce projet pose les bases pour des améliorations futures, telles que l'ajout d'u
 
 ```
 git clone https://github.com/BertrandM22/Tictactoe
-cd tictactoe
+
 ```
 
 
