@@ -1,4 +1,4 @@
-            ✨ Projet OXO : Jeu de Tic Tac Toe ✨
+                                                            ✨ Projet OXO : Jeu de Tic Tac Toe ✨
 
 
  ![preview](assets/preview.png)
