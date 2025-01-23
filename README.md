@@ -38,8 +38,13 @@ Ce projet pose les bases pour des améliorations futures, telles que l'ajout d'u
 ## 🛠️ Installation & Utilisation
 1. Cloner le dépôt :
 
-git clone https://github.com/BertrandM22/OXOProject.git
-cd OXOProject
+
+```
+git clone https://github.com/BertrandM22/Tictactoe
+cd tictactoe
+```
+
+
 
 2. Ouvrir le projet :
 Ouvre le fichier index.html dans ton navigateur pour commencer une partie de Tic Tac Toe.
