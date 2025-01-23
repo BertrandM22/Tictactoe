@@ -1,0 +1,38 @@
+.cell {
+  
+  border-style:double;
+  height: 125px;
+  width: 125px;
+  border-radius: 65%;
+  background-color: rgba(162, 124, 124, 0.158); 
+  text-size-adjust: 100px;
+}
+
+h1{
+  text-align: center;
+  color: rgb(39, 39, 182);
+  font-size: 35px;
+}
+tr{
+  text-shadow: 1px 3px red;
+  font-size: 90px;
+  text-align: center;
+}
+table{
+  border-style:ridge;
+  margin-left:auto; margin-right:auto;
+  background-color: rgb(241, 241, 237);
+  border-radius: 15%;
+  border-color:bisque;
+  
+}
+#nameJ1{
+  text-align: left;
+  color: rgb(223, 148, 51);
+}
+#nameJ2{
+  text-align: right;
+  color: rgb(241, 196, 82);
+}
+
+
